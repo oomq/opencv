@@ -8,7 +8,7 @@ int main()
 {
 	int a;
 	
-	std::cout << "这是中文吗" << "第二次" << std::endl;
+	std::cout << "这是中文吗" << "第二次.." << std::endl;
 	std::cin >> a ;
     return 0;
 }
